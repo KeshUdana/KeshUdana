@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KeshUdana
-- 👀 I’m interested in working out, driving, reading and travelling
-- 🌱 I’m currently learning java 
+- 👀 Pyhton, Java, Html/CSS, Dart 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me on instagram: https://www.instagram.com/kshwa001/ and linkedin: https://www.linkedin.com/in/keshawa-paranahewa-4a4259208/
 
