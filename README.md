@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CS student and entrepreneur specializing in full stack development and currently studying machine learning.<br>. My team and I are working on a Machine Learning project in the fashion domain.Stay in touch for updates. I am excited & big things are coming :D !!!
+I am a CS student specializing in full stack development and currently studying machine learning.<br>. My team and I are working on a Machine Learning project in the fashion domain.Stay in touch for updates. I am excited & big things are coming :D !!!
 
 
 ## 🌐 Socials:
